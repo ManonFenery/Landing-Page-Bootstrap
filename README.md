@@ -1,2 +1,0 @@
-## Landing Page Bootstrap
-Lien : 
